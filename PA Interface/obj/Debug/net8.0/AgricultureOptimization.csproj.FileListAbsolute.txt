@@ -1,0 +1,288 @@
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Winter 2025)\Database Systems (ESOF3675)\Project\AgricultureOptimization\obj\Debug\net8.0\AgricultureOptimization.csproj.AssemblyReference.cache
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Winter 2025)\Database Systems (ESOF3675)\Project\AgricultureOptimization\obj\Debug\net8.0\AgricultureOptimization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Winter 2025)\Database Systems (ESOF3675)\Project\AgricultureOptimization\obj\Debug\net8.0\AgricultureOptimization.AssemblyInfoInputs.cache
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Winter 2025)\Database Systems (ESOF3675)\Project\AgricultureOptimization\obj\Debug\net8.0\AgricultureOptimization.AssemblyInfo.cs
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Winter 2025)\Database Systems (ESOF3675)\Project\AgricultureOptimization\obj\Debug\net8.0\AgricultureOptimization.csproj.CoreCompileInputs.cache
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Winter 2025)\Database Systems (ESOF3675)\Project\AgricultureOptimization\obj\Debug\net8.0\AgricultureOptimization.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Winter 2025)\Database Systems (ESOF3675)\Project\AgricultureOptimization\obj\Debug\net8.0\AgricultureOptimization.RazorAssemblyInfo.cache
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Winter 2025)\Database Systems (ESOF3675)\Project\AgricultureOptimization\obj\Debug\net8.0\AgricultureOptimization.RazorAssemblyInfo.cs
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Winter 2025)\Database Systems (ESOF3675)\Project\AgricultureOptimization\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Winter 2025)\Database Systems (ESOF3675)\Project\AgricultureOptimization\obj\Debug\net8.0\scopedcss\bundle\AgricultureOptimization.styles.css
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Winter 2025)\Database Systems (ESOF3675)\Project\AgricultureOptimization\obj\Debug\net8.0\scopedcss\projectbundle\AgricultureOptimization.bundle.scp.css
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Winter 2025)\Database Systems (ESOF3675)\Project\AgricultureOptimization\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Winter 2025)\Database Systems (ESOF3675)\Project\AgricultureOptimization\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Winter 2025)\Database Systems (ESOF3675)\Project\AgricultureOptimization\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Winter 2025)\Database Systems (ESOF3675)\Project\AgricultureOptimization\obj\Debug\net8.0\staticwebassets\msbuild.AgricultureOptimization.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Winter 2025)\Database Systems (ESOF3675)\Project\AgricultureOptimization\obj\Debug\net8.0\staticwebassets\msbuild.AgricultureOptimization.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Winter 2025)\Database Systems (ESOF3675)\Project\AgricultureOptimization\obj\Debug\net8.0\staticwebassets\msbuild.build.AgricultureOptimization.props
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Winter 2025)\Database Systems (ESOF3675)\Project\AgricultureOptimization\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AgricultureOptimization.props
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Winter 2025)\Database Systems (ESOF3675)\Project\AgricultureOptimization\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AgricultureOptimization.props
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Winter 2025)\Database Systems (ESOF3675)\Project\AgricultureOptimization\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Winter 2025)\Database Systems (ESOF3675)\Project\AgricultureOptimization\obj\Debug\net8.0\AgricultureOptimization.dll
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Winter 2025)\Database Systems (ESOF3675)\Project\AgricultureOptimization\obj\Debug\net8.0\refint\AgricultureOptimization.dll
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Winter 2025)\Database Systems (ESOF3675)\Project\AgricultureOptimization\obj\Debug\net8.0\AgricultureOptimization.pdb
+C:\Users\OWNER\Desktop\AgricultureOptimization\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\OWNER\Desktop\AgricultureOptimization\bin\Debug\net8.0\appsettings.json
+C:\Users\OWNER\Desktop\AgricultureOptimization\bin\Debug\net8.0\AgricultureOptimization.staticwebassets.runtime.json
+C:\Users\OWNER\Desktop\AgricultureOptimization\bin\Debug\net8.0\AgricultureOptimization.staticwebassets.endpoints.json
+C:\Users\OWNER\Desktop\AgricultureOptimization\bin\Debug\net8.0\AgricultureOptimization.exe
+C:\Users\OWNER\Desktop\AgricultureOptimization\bin\Debug\net8.0\AgricultureOptimization.deps.json
+C:\Users\OWNER\Desktop\AgricultureOptimization\bin\Debug\net8.0\AgricultureOptimization.runtimeconfig.json
+C:\Users\OWNER\Desktop\AgricultureOptimization\bin\Debug\net8.0\AgricultureOptimization.dll
+C:\Users\OWNER\Desktop\AgricultureOptimization\bin\Debug\net8.0\AgricultureOptimization.pdb
+C:\Users\OWNER\Desktop\AgricultureOptimization\bin\Debug\net8.0\DnsClient.dll
+C:\Users\OWNER\Desktop\AgricultureOptimization\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\OWNER\Desktop\AgricultureOptimization\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\OWNER\Desktop\AgricultureOptimization\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\OWNER\Desktop\AgricultureOptimization\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\OWNER\Desktop\AgricultureOptimization\bin\Debug\net8.0\Snappier.dll
+C:\Users\OWNER\Desktop\AgricultureOptimization\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\OWNER\Desktop\AgricultureOptimization\obj\Debug\net8.0\AgricultureOptimization.csproj.AssemblyReference.cache
+C:\Users\OWNER\Desktop\AgricultureOptimization\obj\Debug\net8.0\AgricultureOptimization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OWNER\Desktop\AgricultureOptimization\obj\Debug\net8.0\AgricultureOptimization.AssemblyInfoInputs.cache
+C:\Users\OWNER\Desktop\AgricultureOptimization\obj\Debug\net8.0\AgricultureOptimization.AssemblyInfo.cs
+C:\Users\OWNER\Desktop\AgricultureOptimization\obj\Debug\net8.0\AgricultureOptimization.csproj.CoreCompileInputs.cache
+C:\Users\OWNER\Desktop\AgricultureOptimization\obj\Debug\net8.0\AgricultureOptimization.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\OWNER\Desktop\AgricultureOptimization\obj\Debug\net8.0\AgricultureOptimization.RazorAssemblyInfo.cache
+C:\Users\OWNER\Desktop\AgricultureOptimization\obj\Debug\net8.0\AgricultureOptimization.RazorAssemblyInfo.cs
+C:\Users\OWNER\Desktop\AgricultureOptimization\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\OWNER\Desktop\AgricultureOptimization\obj\Debug\net8.0\scopedcss\bundle\AgricultureOptimization.styles.css
+C:\Users\OWNER\Desktop\AgricultureOptimization\obj\Debug\net8.0\scopedcss\projectbundle\AgricultureOptimization.bundle.scp.css
+C:\Users\OWNER\Desktop\AgricultureOptimization\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\OWNER\Desktop\AgricultureOptimization\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\OWNER\Desktop\AgricultureOptimization\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\OWNER\Desktop\AgricultureOptimization\obj\Debug\net8.0\staticwebassets\msbuild.AgricultureOptimization.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\OWNER\Desktop\AgricultureOptimization\obj\Debug\net8.0\staticwebassets\msbuild.AgricultureOptimization.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\OWNER\Desktop\AgricultureOptimization\obj\Debug\net8.0\staticwebassets\msbuild.build.AgricultureOptimization.props
+C:\Users\OWNER\Desktop\AgricultureOptimization\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AgricultureOptimization.props
+C:\Users\OWNER\Desktop\AgricultureOptimization\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AgricultureOptimization.props
+C:\Users\OWNER\Desktop\AgricultureOptimization\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\OWNER\Desktop\AgricultureOptimization\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\OWNER\Desktop\AgricultureOptimization\obj\Debug\net8.0\Agricult.39A7CE87.Up2Date
+C:\Users\OWNER\Desktop\AgricultureOptimization\obj\Debug\net8.0\AgricultureOptimization.dll
+C:\Users\OWNER\Desktop\AgricultureOptimization\obj\Debug\net8.0\refint\AgricultureOptimization.dll
+C:\Users\OWNER\Desktop\AgricultureOptimization\obj\Debug\net8.0\AgricultureOptimization.pdb
+C:\Users\OWNER\Desktop\AgricultureOptimization\obj\Debug\net8.0\AgricultureOptimization.genruntimeconfig.cache
+C:\Users\OWNER\Desktop\AgricultureOptimization\obj\Debug\net8.0\ref\AgricultureOptimization.dll
+C:\Users\OWNER\Documents\Lakehead University\AgricultureOptimization\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\OWNER\Documents\Lakehead University\AgricultureOptimization\bin\Debug\net8.0\appsettings.json
+C:\Users\OWNER\Documents\Lakehead University\AgricultureOptimization\bin\Debug\net8.0\AgricultureOptimization.staticwebassets.runtime.json
+C:\Users\OWNER\Documents\Lakehead University\AgricultureOptimization\bin\Debug\net8.0\AgricultureOptimization.staticwebassets.endpoints.json
+C:\Users\OWNER\Documents\Lakehead University\AgricultureOptimization\bin\Debug\net8.0\AgricultureOptimization.exe
+C:\Users\OWNER\Documents\Lakehead University\AgricultureOptimization\bin\Debug\net8.0\AgricultureOptimization.deps.json
+C:\Users\OWNER\Documents\Lakehead University\AgricultureOptimization\bin\Debug\net8.0\AgricultureOptimization.runtimeconfig.json
+C:\Users\OWNER\Documents\Lakehead University\AgricultureOptimization\bin\Debug\net8.0\AgricultureOptimization.dll
+C:\Users\OWNER\Documents\Lakehead University\AgricultureOptimization\bin\Debug\net8.0\AgricultureOptimization.pdb
+C:\Users\OWNER\Documents\Lakehead University\AgricultureOptimization\bin\Debug\net8.0\DnsClient.dll
+C:\Users\OWNER\Documents\Lakehead University\AgricultureOptimization\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\OWNER\Documents\Lakehead University\AgricultureOptimization\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\OWNER\Documents\Lakehead University\AgricultureOptimization\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\OWNER\Documents\Lakehead University\AgricultureOptimization\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\OWNER\Documents\Lakehead University\AgricultureOptimization\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\OWNER\Documents\Lakehead University\AgricultureOptimization\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\OWNER\Documents\Lakehead University\AgricultureOptimization\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\OWNER\Documents\Lakehead University\AgricultureOptimization\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\OWNER\Documents\Lakehead University\AgricultureOptimization\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\OWNER\Documents\Lakehead University\AgricultureOptimization\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\OWNER\Documents\Lakehead University\AgricultureOptimization\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\OWNER\Documents\Lakehead University\AgricultureOptimization\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\OWNER\Documents\Lakehead University\AgricultureOptimization\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\OWNER\Documents\Lakehead University\AgricultureOptimization\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\OWNER\Documents\Lakehead University\AgricultureOptimization\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\OWNER\Documents\Lakehead University\AgricultureOptimization\bin\Debug\net8.0\Snappier.dll
+C:\Users\OWNER\Documents\Lakehead University\AgricultureOptimization\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\OWNER\Documents\Lakehead University\AgricultureOptimization\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\OWNER\Documents\Lakehead University\AgricultureOptimization\obj\Debug\net8.0\AgricultureOptimization.csproj.AssemblyReference.cache
+C:\Users\OWNER\Documents\Lakehead University\AgricultureOptimization\obj\Debug\net8.0\AgricultureOptimization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OWNER\Documents\Lakehead University\AgricultureOptimization\obj\Debug\net8.0\AgricultureOptimization.AssemblyInfoInputs.cache
+C:\Users\OWNER\Documents\Lakehead University\AgricultureOptimization\obj\Debug\net8.0\AgricultureOptimization.AssemblyInfo.cs
+C:\Users\OWNER\Documents\Lakehead University\AgricultureOptimization\obj\Debug\net8.0\AgricultureOptimization.csproj.CoreCompileInputs.cache
+C:\Users\OWNER\Documents\Lakehead University\AgricultureOptimization\obj\Debug\net8.0\AgricultureOptimization.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\OWNER\Documents\Lakehead University\AgricultureOptimization\obj\Debug\net8.0\AgricultureOptimization.RazorAssemblyInfo.cache
+C:\Users\OWNER\Documents\Lakehead University\AgricultureOptimization\obj\Debug\net8.0\AgricultureOptimization.RazorAssemblyInfo.cs
+C:\Users\OWNER\Documents\Lakehead University\AgricultureOptimization\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\OWNER\Documents\Lakehead University\AgricultureOptimization\obj\Debug\net8.0\scopedcss\bundle\AgricultureOptimization.styles.css
+C:\Users\OWNER\Documents\Lakehead University\AgricultureOptimization\obj\Debug\net8.0\scopedcss\projectbundle\AgricultureOptimization.bundle.scp.css
+C:\Users\OWNER\Documents\Lakehead University\AgricultureOptimization\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\OWNER\Documents\Lakehead University\AgricultureOptimization\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\OWNER\Documents\Lakehead University\AgricultureOptimization\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\OWNER\Documents\Lakehead University\AgricultureOptimization\obj\Debug\net8.0\staticwebassets\msbuild.AgricultureOptimization.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\OWNER\Documents\Lakehead University\AgricultureOptimization\obj\Debug\net8.0\staticwebassets\msbuild.AgricultureOptimization.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\OWNER\Documents\Lakehead University\AgricultureOptimization\obj\Debug\net8.0\staticwebassets\msbuild.build.AgricultureOptimization.props
+C:\Users\OWNER\Documents\Lakehead University\AgricultureOptimization\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AgricultureOptimization.props
+C:\Users\OWNER\Documents\Lakehead University\AgricultureOptimization\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AgricultureOptimization.props
+C:\Users\OWNER\Documents\Lakehead University\AgricultureOptimization\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\OWNER\Documents\Lakehead University\AgricultureOptimization\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\OWNER\Documents\Lakehead University\AgricultureOptimization\obj\Debug\net8.0\Agricult.39A7CE87.Up2Date
+C:\Users\OWNER\Documents\Lakehead University\AgricultureOptimization\obj\Debug\net8.0\AgricultureOptimization.dll
+C:\Users\OWNER\Documents\Lakehead University\AgricultureOptimization\obj\Debug\net8.0\refint\AgricultureOptimization.dll
+C:\Users\OWNER\Documents\Lakehead University\AgricultureOptimization\obj\Debug\net8.0\AgricultureOptimization.pdb
+C:\Users\OWNER\Documents\Lakehead University\AgricultureOptimization\obj\Debug\net8.0\AgricultureOptimization.genruntimeconfig.cache
+C:\Users\OWNER\Documents\Lakehead University\AgricultureOptimization\obj\Debug\net8.0\ref\AgricultureOptimization.dll
+C:\Users\patel\Documents\GitHub\ESOF3675Project\AgricultureOptimization\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\patel\Documents\GitHub\ESOF3675Project\AgricultureOptimization\bin\Debug\net8.0\appsettings.json
+C:\Users\patel\Documents\GitHub\ESOF3675Project\AgricultureOptimization\bin\Debug\net8.0\AgricultureOptimization.staticwebassets.runtime.json
+C:\Users\patel\Documents\GitHub\ESOF3675Project\AgricultureOptimization\bin\Debug\net8.0\AgricultureOptimization.staticwebassets.endpoints.json
+C:\Users\patel\Documents\GitHub\ESOF3675Project\AgricultureOptimization\bin\Debug\net8.0\AgricultureOptimization.exe
+C:\Users\patel\Documents\GitHub\ESOF3675Project\AgricultureOptimization\bin\Debug\net8.0\AgricultureOptimization.deps.json
+C:\Users\patel\Documents\GitHub\ESOF3675Project\AgricultureOptimization\bin\Debug\net8.0\AgricultureOptimization.runtimeconfig.json
+C:\Users\patel\Documents\GitHub\ESOF3675Project\AgricultureOptimization\bin\Debug\net8.0\AgricultureOptimization.dll
+C:\Users\patel\Documents\GitHub\ESOF3675Project\AgricultureOptimization\bin\Debug\net8.0\AgricultureOptimization.pdb
+C:\Users\patel\Documents\GitHub\ESOF3675Project\AgricultureOptimization\bin\Debug\net8.0\DnsClient.dll
+C:\Users\patel\Documents\GitHub\ESOF3675Project\AgricultureOptimization\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\patel\Documents\GitHub\ESOF3675Project\AgricultureOptimization\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\patel\Documents\GitHub\ESOF3675Project\AgricultureOptimization\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\patel\Documents\GitHub\ESOF3675Project\AgricultureOptimization\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\patel\Documents\GitHub\ESOF3675Project\AgricultureOptimization\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\patel\Documents\GitHub\ESOF3675Project\AgricultureOptimization\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\patel\Documents\GitHub\ESOF3675Project\AgricultureOptimization\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\patel\Documents\GitHub\ESOF3675Project\AgricultureOptimization\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\patel\Documents\GitHub\ESOF3675Project\AgricultureOptimization\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\patel\Documents\GitHub\ESOF3675Project\AgricultureOptimization\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\patel\Documents\GitHub\ESOF3675Project\AgricultureOptimization\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\patel\Documents\GitHub\ESOF3675Project\AgricultureOptimization\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\patel\Documents\GitHub\ESOF3675Project\AgricultureOptimization\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\patel\Documents\GitHub\ESOF3675Project\AgricultureOptimization\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\patel\Documents\GitHub\ESOF3675Project\AgricultureOptimization\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\patel\Documents\GitHub\ESOF3675Project\AgricultureOptimization\bin\Debug\net8.0\Snappier.dll
+C:\Users\patel\Documents\GitHub\ESOF3675Project\AgricultureOptimization\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\patel\Documents\GitHub\ESOF3675Project\AgricultureOptimization\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\patel\Documents\GitHub\ESOF3675Project\AgricultureOptimization\obj\Debug\net8.0\AgricultureOptimization.csproj.AssemblyReference.cache
+C:\Users\patel\Documents\GitHub\ESOF3675Project\AgricultureOptimization\obj\Debug\net8.0\AgricultureOptimization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patel\Documents\GitHub\ESOF3675Project\AgricultureOptimization\obj\Debug\net8.0\AgricultureOptimization.AssemblyInfoInputs.cache
+C:\Users\patel\Documents\GitHub\ESOF3675Project\AgricultureOptimization\obj\Debug\net8.0\AgricultureOptimization.AssemblyInfo.cs
+C:\Users\patel\Documents\GitHub\ESOF3675Project\AgricultureOptimization\obj\Debug\net8.0\AgricultureOptimization.csproj.CoreCompileInputs.cache
+C:\Users\patel\Documents\GitHub\ESOF3675Project\AgricultureOptimization\obj\Debug\net8.0\AgricultureOptimization.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\patel\Documents\GitHub\ESOF3675Project\AgricultureOptimization\obj\Debug\net8.0\AgricultureOptimization.RazorAssemblyInfo.cache
+C:\Users\patel\Documents\GitHub\ESOF3675Project\AgricultureOptimization\obj\Debug\net8.0\AgricultureOptimization.RazorAssemblyInfo.cs
+C:\Users\patel\Documents\GitHub\ESOF3675Project\AgricultureOptimization\obj\Debug\net8.0\AgricultureOptimization.sourcelink.json
+C:\Users\patel\Documents\GitHub\ESOF3675Project\AgricultureOptimization\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\patel\Documents\GitHub\ESOF3675Project\AgricultureOptimization\obj\Debug\net8.0\scopedcss\bundle\AgricultureOptimization.styles.css
+C:\Users\patel\Documents\GitHub\ESOF3675Project\AgricultureOptimization\obj\Debug\net8.0\scopedcss\projectbundle\AgricultureOptimization.bundle.scp.css
+C:\Users\patel\Documents\GitHub\ESOF3675Project\AgricultureOptimization\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\patel\Documents\GitHub\ESOF3675Project\AgricultureOptimization\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\patel\Documents\GitHub\ESOF3675Project\AgricultureOptimization\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\patel\Documents\GitHub\ESOF3675Project\AgricultureOptimization\obj\Debug\net8.0\staticwebassets\msbuild.AgricultureOptimization.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\patel\Documents\GitHub\ESOF3675Project\AgricultureOptimization\obj\Debug\net8.0\staticwebassets\msbuild.AgricultureOptimization.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\patel\Documents\GitHub\ESOF3675Project\AgricultureOptimization\obj\Debug\net8.0\staticwebassets\msbuild.build.AgricultureOptimization.props
+C:\Users\patel\Documents\GitHub\ESOF3675Project\AgricultureOptimization\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AgricultureOptimization.props
+C:\Users\patel\Documents\GitHub\ESOF3675Project\AgricultureOptimization\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AgricultureOptimization.props
+C:\Users\patel\Documents\GitHub\ESOF3675Project\AgricultureOptimization\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\patel\Documents\GitHub\ESOF3675Project\AgricultureOptimization\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\patel\Documents\GitHub\ESOF3675Project\AgricultureOptimization\obj\Debug\net8.0\Agricult.39A7CE87.Up2Date
+C:\Users\patel\Documents\GitHub\ESOF3675Project\AgricultureOptimization\obj\Debug\net8.0\AgricultureOptimization.dll
+C:\Users\patel\Documents\GitHub\ESOF3675Project\AgricultureOptimization\obj\Debug\net8.0\refint\AgricultureOptimization.dll
+C:\Users\patel\Documents\GitHub\ESOF3675Project\AgricultureOptimization\obj\Debug\net8.0\AgricultureOptimization.pdb
+C:\Users\patel\Documents\GitHub\ESOF3675Project\AgricultureOptimization\obj\Debug\net8.0\AgricultureOptimization.genruntimeconfig.cache
+C:\Users\patel\Documents\GitHub\ESOF3675Project\AgricultureOptimization\obj\Debug\net8.0\ref\AgricultureOptimization.dll
+C:\Users\OWNER\Documents\GitHub\ESOF3675Project\AgricultureOptimization\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\OWNER\Documents\GitHub\ESOF3675Project\AgricultureOptimization\bin\Debug\net8.0\appsettings.json
+C:\Users\OWNER\Documents\GitHub\ESOF3675Project\AgricultureOptimization\bin\Debug\net8.0\AgricultureOptimization.staticwebassets.runtime.json
+C:\Users\OWNER\Documents\GitHub\ESOF3675Project\AgricultureOptimization\bin\Debug\net8.0\AgricultureOptimization.staticwebassets.endpoints.json
+C:\Users\OWNER\Documents\GitHub\ESOF3675Project\AgricultureOptimization\bin\Debug\net8.0\AgricultureOptimization.exe
+C:\Users\OWNER\Documents\GitHub\ESOF3675Project\AgricultureOptimization\bin\Debug\net8.0\AgricultureOptimization.deps.json
+C:\Users\OWNER\Documents\GitHub\ESOF3675Project\AgricultureOptimization\bin\Debug\net8.0\AgricultureOptimization.runtimeconfig.json
+C:\Users\OWNER\Documents\GitHub\ESOF3675Project\AgricultureOptimization\bin\Debug\net8.0\AgricultureOptimization.dll
+C:\Users\OWNER\Documents\GitHub\ESOF3675Project\AgricultureOptimization\bin\Debug\net8.0\AgricultureOptimization.pdb
+C:\Users\OWNER\Documents\GitHub\ESOF3675Project\AgricultureOptimization\bin\Debug\net8.0\DnsClient.dll
+C:\Users\OWNER\Documents\GitHub\ESOF3675Project\AgricultureOptimization\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\OWNER\Documents\GitHub\ESOF3675Project\AgricultureOptimization\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\OWNER\Documents\GitHub\ESOF3675Project\AgricultureOptimization\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\OWNER\Documents\GitHub\ESOF3675Project\AgricultureOptimization\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\OWNER\Documents\GitHub\ESOF3675Project\AgricultureOptimization\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\OWNER\Documents\GitHub\ESOF3675Project\AgricultureOptimization\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\OWNER\Documents\GitHub\ESOF3675Project\AgricultureOptimization\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\OWNER\Documents\GitHub\ESOF3675Project\AgricultureOptimization\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\OWNER\Documents\GitHub\ESOF3675Project\AgricultureOptimization\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\OWNER\Documents\GitHub\ESOF3675Project\AgricultureOptimization\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\OWNER\Documents\GitHub\ESOF3675Project\AgricultureOptimization\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\OWNER\Documents\GitHub\ESOF3675Project\AgricultureOptimization\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\OWNER\Documents\GitHub\ESOF3675Project\AgricultureOptimization\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\OWNER\Documents\GitHub\ESOF3675Project\AgricultureOptimization\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\OWNER\Documents\GitHub\ESOF3675Project\AgricultureOptimization\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\OWNER\Documents\GitHub\ESOF3675Project\AgricultureOptimization\bin\Debug\net8.0\Snappier.dll
+C:\Users\OWNER\Documents\GitHub\ESOF3675Project\AgricultureOptimization\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\OWNER\Documents\GitHub\ESOF3675Project\AgricultureOptimization\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\OWNER\Documents\GitHub\ESOF3675Project\AgricultureOptimization\obj\Debug\net8.0\AgricultureOptimization.csproj.AssemblyReference.cache
+C:\Users\OWNER\Documents\GitHub\ESOF3675Project\AgricultureOptimization\obj\Debug\net8.0\AgricultureOptimization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OWNER\Documents\GitHub\ESOF3675Project\AgricultureOptimization\obj\Debug\net8.0\AgricultureOptimization.AssemblyInfoInputs.cache
+C:\Users\OWNER\Documents\GitHub\ESOF3675Project\AgricultureOptimization\obj\Debug\net8.0\AgricultureOptimization.AssemblyInfo.cs
+C:\Users\OWNER\Documents\GitHub\ESOF3675Project\AgricultureOptimization\obj\Debug\net8.0\AgricultureOptimization.csproj.CoreCompileInputs.cache
+C:\Users\OWNER\Documents\GitHub\ESOF3675Project\AgricultureOptimization\obj\Debug\net8.0\AgricultureOptimization.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\OWNER\Documents\GitHub\ESOF3675Project\AgricultureOptimization\obj\Debug\net8.0\AgricultureOptimization.RazorAssemblyInfo.cache
+C:\Users\OWNER\Documents\GitHub\ESOF3675Project\AgricultureOptimization\obj\Debug\net8.0\AgricultureOptimization.RazorAssemblyInfo.cs
+C:\Users\OWNER\Documents\GitHub\ESOF3675Project\AgricultureOptimization\obj\Debug\net8.0\AgricultureOptimization.sourcelink.json
+C:\Users\OWNER\Documents\GitHub\ESOF3675Project\AgricultureOptimization\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\OWNER\Documents\GitHub\ESOF3675Project\AgricultureOptimization\obj\Debug\net8.0\scopedcss\bundle\AgricultureOptimization.styles.css
+C:\Users\OWNER\Documents\GitHub\ESOF3675Project\AgricultureOptimization\obj\Debug\net8.0\scopedcss\projectbundle\AgricultureOptimization.bundle.scp.css
+C:\Users\OWNER\Documents\GitHub\ESOF3675Project\AgricultureOptimization\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\OWNER\Documents\GitHub\ESOF3675Project\AgricultureOptimization\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\OWNER\Documents\GitHub\ESOF3675Project\AgricultureOptimization\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\OWNER\Documents\GitHub\ESOF3675Project\AgricultureOptimization\obj\Debug\net8.0\staticwebassets\msbuild.AgricultureOptimization.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\OWNER\Documents\GitHub\ESOF3675Project\AgricultureOptimization\obj\Debug\net8.0\staticwebassets\msbuild.AgricultureOptimization.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\OWNER\Documents\GitHub\ESOF3675Project\AgricultureOptimization\obj\Debug\net8.0\staticwebassets\msbuild.build.AgricultureOptimization.props
+C:\Users\OWNER\Documents\GitHub\ESOF3675Project\AgricultureOptimization\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AgricultureOptimization.props
+C:\Users\OWNER\Documents\GitHub\ESOF3675Project\AgricultureOptimization\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AgricultureOptimization.props
+C:\Users\OWNER\Documents\GitHub\ESOF3675Project\AgricultureOptimization\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\OWNER\Documents\GitHub\ESOF3675Project\AgricultureOptimization\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\OWNER\Documents\GitHub\ESOF3675Project\AgricultureOptimization\obj\Debug\net8.0\Agricult.39A7CE87.Up2Date
+C:\Users\OWNER\Documents\GitHub\ESOF3675Project\AgricultureOptimization\obj\Debug\net8.0\AgricultureOptimization.dll
+C:\Users\OWNER\Documents\GitHub\ESOF3675Project\AgricultureOptimization\obj\Debug\net8.0\refint\AgricultureOptimization.dll
+C:\Users\OWNER\Documents\GitHub\ESOF3675Project\AgricultureOptimization\obj\Debug\net8.0\AgricultureOptimization.pdb
+C:\Users\OWNER\Documents\GitHub\ESOF3675Project\AgricultureOptimization\obj\Debug\net8.0\AgricultureOptimization.genruntimeconfig.cache
+C:\Users\OWNER\Documents\GitHub\ESOF3675Project\AgricultureOptimization\obj\Debug\net8.0\ref\AgricultureOptimization.dll
+C:\Users\OWNER\Documents\GitHub\Precision Agriculture\AgricultureOptimization\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\OWNER\Documents\GitHub\Precision Agriculture\AgricultureOptimization\bin\Debug\net8.0\appsettings.json
+C:\Users\OWNER\Documents\GitHub\Precision Agriculture\AgricultureOptimization\bin\Debug\net8.0\AgricultureOptimization.staticwebassets.endpoints.json
+C:\Users\OWNER\Documents\GitHub\Precision Agriculture\AgricultureOptimization\bin\Debug\net8.0\AgricultureOptimization.staticwebassets.runtime.json
+C:\Users\OWNER\Documents\GitHub\Precision Agriculture\AgricultureOptimization\bin\Debug\net8.0\AgricultureOptimization.exe
+C:\Users\OWNER\Documents\GitHub\Precision Agriculture\AgricultureOptimization\bin\Debug\net8.0\AgricultureOptimization.deps.json
+C:\Users\OWNER\Documents\GitHub\Precision Agriculture\AgricultureOptimization\bin\Debug\net8.0\AgricultureOptimization.runtimeconfig.json
+C:\Users\OWNER\Documents\GitHub\Precision Agriculture\AgricultureOptimization\bin\Debug\net8.0\AgricultureOptimization.dll
+C:\Users\OWNER\Documents\GitHub\Precision Agriculture\AgricultureOptimization\bin\Debug\net8.0\AgricultureOptimization.pdb
+C:\Users\OWNER\Documents\GitHub\Precision Agriculture\AgricultureOptimization\bin\Debug\net8.0\DnsClient.dll
+C:\Users\OWNER\Documents\GitHub\Precision Agriculture\AgricultureOptimization\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\OWNER\Documents\GitHub\Precision Agriculture\AgricultureOptimization\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\OWNER\Documents\GitHub\Precision Agriculture\AgricultureOptimization\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\OWNER\Documents\GitHub\Precision Agriculture\AgricultureOptimization\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\OWNER\Documents\GitHub\Precision Agriculture\AgricultureOptimization\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\OWNER\Documents\GitHub\Precision Agriculture\AgricultureOptimization\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\OWNER\Documents\GitHub\Precision Agriculture\AgricultureOptimization\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\OWNER\Documents\GitHub\Precision Agriculture\AgricultureOptimization\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\OWNER\Documents\GitHub\Precision Agriculture\AgricultureOptimization\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\OWNER\Documents\GitHub\Precision Agriculture\AgricultureOptimization\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\OWNER\Documents\GitHub\Precision Agriculture\AgricultureOptimization\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\OWNER\Documents\GitHub\Precision Agriculture\AgricultureOptimization\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\OWNER\Documents\GitHub\Precision Agriculture\AgricultureOptimization\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\OWNER\Documents\GitHub\Precision Agriculture\AgricultureOptimization\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\OWNER\Documents\GitHub\Precision Agriculture\AgricultureOptimization\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\OWNER\Documents\GitHub\Precision Agriculture\AgricultureOptimization\bin\Debug\net8.0\Snappier.dll
+C:\Users\OWNER\Documents\GitHub\Precision Agriculture\AgricultureOptimization\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\OWNER\Documents\GitHub\Precision Agriculture\AgricultureOptimization\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\OWNER\Documents\GitHub\Precision Agriculture\AgricultureOptimization\obj\Debug\net8.0\AgricultureOptimization.csproj.AssemblyReference.cache
+C:\Users\OWNER\Documents\GitHub\Precision Agriculture\AgricultureOptimization\obj\Debug\net8.0\AgricultureOptimization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OWNER\Documents\GitHub\Precision Agriculture\AgricultureOptimization\obj\Debug\net8.0\AgricultureOptimization.AssemblyInfoInputs.cache
+C:\Users\OWNER\Documents\GitHub\Precision Agriculture\AgricultureOptimization\obj\Debug\net8.0\AgricultureOptimization.AssemblyInfo.cs
+C:\Users\OWNER\Documents\GitHub\Precision Agriculture\AgricultureOptimization\obj\Debug\net8.0\AgricultureOptimization.csproj.CoreCompileInputs.cache
+C:\Users\OWNER\Documents\GitHub\Precision Agriculture\AgricultureOptimization\obj\Debug\net8.0\AgricultureOptimization.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\OWNER\Documents\GitHub\Precision Agriculture\AgricultureOptimization\obj\Debug\net8.0\AgricultureOptimization.RazorAssemblyInfo.cache
+C:\Users\OWNER\Documents\GitHub\Precision Agriculture\AgricultureOptimization\obj\Debug\net8.0\AgricultureOptimization.RazorAssemblyInfo.cs
+C:\Users\OWNER\Documents\GitHub\Precision Agriculture\AgricultureOptimization\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\OWNER\Documents\GitHub\Precision Agriculture\AgricultureOptimization\obj\Debug\net8.0\scopedcss\bundle\AgricultureOptimization.styles.css
+C:\Users\OWNER\Documents\GitHub\Precision Agriculture\AgricultureOptimization\obj\Debug\net8.0\scopedcss\projectbundle\AgricultureOptimization.bundle.scp.css
+C:\Users\OWNER\Documents\GitHub\Precision Agriculture\AgricultureOptimization\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\OWNER\Documents\GitHub\Precision Agriculture\AgricultureOptimization\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\OWNER\Documents\GitHub\Precision Agriculture\AgricultureOptimization\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\OWNER\Documents\GitHub\Precision Agriculture\AgricultureOptimization\obj\Debug\net8.0\staticwebassets\msbuild.AgricultureOptimization.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\OWNER\Documents\GitHub\Precision Agriculture\AgricultureOptimization\obj\Debug\net8.0\staticwebassets\msbuild.AgricultureOptimization.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\OWNER\Documents\GitHub\Precision Agriculture\AgricultureOptimization\obj\Debug\net8.0\staticwebassets\msbuild.build.AgricultureOptimization.props
+C:\Users\OWNER\Documents\GitHub\Precision Agriculture\AgricultureOptimization\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AgricultureOptimization.props
+C:\Users\OWNER\Documents\GitHub\Precision Agriculture\AgricultureOptimization\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AgricultureOptimization.props
+C:\Users\OWNER\Documents\GitHub\Precision Agriculture\AgricultureOptimization\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\OWNER\Documents\GitHub\Precision Agriculture\AgricultureOptimization\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\OWNER\Documents\GitHub\Precision Agriculture\AgricultureOptimization\obj\Debug\net8.0\Agricult.39A7CE87.Up2Date
+C:\Users\OWNER\Documents\GitHub\Precision Agriculture\AgricultureOptimization\obj\Debug\net8.0\AgricultureOptimization.dll
+C:\Users\OWNER\Documents\GitHub\Precision Agriculture\AgricultureOptimization\obj\Debug\net8.0\refint\AgricultureOptimization.dll
+C:\Users\OWNER\Documents\GitHub\Precision Agriculture\AgricultureOptimization\obj\Debug\net8.0\AgricultureOptimization.pdb
+C:\Users\OWNER\Documents\GitHub\Precision Agriculture\AgricultureOptimization\obj\Debug\net8.0\AgricultureOptimization.genruntimeconfig.cache
+C:\Users\OWNER\Documents\GitHub\Precision Agriculture\AgricultureOptimization\obj\Debug\net8.0\ref\AgricultureOptimization.dll

@@ -1,0 +1,473 @@
+﻿@page
+@using AgricultureOptimization.Models
+@model AgricultureOptimization.Pages.queryPageModel
+@{
+    Layout = "_Layout";
+    ViewData["Title"] = "Data Mining Queries";
+}
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="~/css/style/queryPage.css" asp-append-version="true" />
+</head>
+<body>
+    @*Very important note: Sometimes http works better, some other times https is the one that works better*@
+    <div class="container">
+        <h1>Tables for Agriculture Optimization</h1>
+        <!-- SoilComposition Table -->
+        <div class="table-container">
+            <h2>Soil Composition</h2>
+            <table id="soilCompositionTable">
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>Organic Matter</th>
+                        <th>pH</th>
+                        <th>N</th>
+                        <th>P</th>
+                        <th>K</th>
+                        <th>Soil Moisture</th>
+                        <th>Soil Type</th>
+                        <th>Nutrient Balance Ratio (NBR)</th>
+                        <th>SFI (Soil Fertility Index)</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var soil in Model.SoilCompositionData.Take(10))
+                    {
+                        <tr>
+                            <td>@soil._id</td>
+                            <td>@soil.organic_matter.ToString("F3")</td>
+                            <td>@soil.ph.ToString("F3")</td>
+                            <td>@soil.N.ToString("F3")</td>
+                            <td>@soil.P.ToString("F3")</td>
+                            <td>@soil.K.ToString("F3")</td>
+                            <td>@soil.soil_moisture.ToString("F3")</td>
+                            <td>@soil.soil_type</td>
+                            <td id="NBR-@soil._id">@soil.NBR</td>
+                            <td id="SFI-@soil._id">@soil.SFI</td>
+                            <td>
+                                <button onclick="computeNBR('@soil._id.ToString()', '@soil.N', '@soil.P', '@soil.K')">Compute NBR</button>
+                                <button onclick="computeSFI('@soil._id.ToString()', '@soil.organic_matter', '@soil.N', '@soil.P', '@soil.K')">Compute SFI</button>
+                            </td>
+                        </tr> 
+                    }
+                </tbody>
+            </table>
+
+            <!-- Add Soil Composition Form -->
+            <h3>Add New Soil Composition</h3>
+            <form method="post" asp-page-handler="AddSoilComposition">
+                <label for="organic_matter">Organic Matter:</label>
+                <input type="number" id="organic_matter" name="organic_matter" required />
+                
+                <label for="ph">pH:</label>
+                <input type="number" id="ph" name="ph" required />
+
+                <label for="N">N (Nitrogen):</label>
+                <input type="number" id="N" name="N" required />
+
+                <label for="P">P (Phosphorus):</label>
+                <input type="number" id="P" name="P" required />
+
+                <label for="K">K (Potassium):</label>
+                <input type="number" id="K" name="K" required />
+
+                <label for="soil_moisture">Soil Moisture:</label>
+                <input type="number" id="soil_moisture" name="soil_moisture" required />
+
+                <label for="soil_type">Soil Type:</label>
+                <input type="number" id="soil_type" name="soil_type" required />
+
+                <button type="submit">Add Soil Composition</button>
+            </form>
+        </div>
+
+        <!-- Weather Table -->
+        <div class="table-container">
+            <h2>Weather Data</h2>
+            <table id="weatherTable">
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>Temperature</th>
+                        <th>Humidity</th>
+                        <th>Rainfall</th>
+                        <th>Sunlight Exposure</th>
+                        <th>Photosynthesis Potential (PP)</th>
+                        <th>Temperature-Humidity Index (THI)</th>
+                        <th>WAI (Water Availability Index)</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var weather in Model.WeatherData.Take(10))
+                    {
+                        <tr>
+                            <td>@weather._id</td>
+                            <td>@weather.temperature.ToString("F3")</td>
+                            <td>@weather.humidity.ToString("F3")</td>
+                            <td>@weather.rainfall.ToString("F3")</td>
+                            <td>@weather.sunlight_exposure.ToString("F3")</td>
+                            <td id="PP-@weather._id">@weather.PP</td>
+                            <td id="THI-@weather._id">@weather.THI</td>
+                            <td id="WAI-@weather._id">@weather.WAI</td>
+                            <td>
+                                <!-- Hidden input field to hold the corresponding soilId -->
+                                <input type="hidden" id="soilId-@weather._id" />
+                                <button type="button" onclick="computeTHI('@weather._id.ToString()', '@weather.temperature', '@weather.humidity')">Compute THI</button>
+                                <button onclick="computePP('@weather._id.ToString()', '@weather.sunlight_exposure', '@weather.co2_concentration', '@weather.temperature')">Compute PP</button>
+                                <form>
+                                    <button type="submit" id="submitWAI" name="action" value="add" onclick="computeWAI('@weather._id','@weather.temperature')">Compute WAI</button>
+                                </form>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+
+            <!-- Add Weather Form -->
+            
+            <h3>Add New Weather</h3>
+            <form id="weatherForm" method="post" asp-page-handler="AddWeather">
+                <label for="_id">Unique ID:</label>
+                <input type="number" id="_id" name="_id" step="any" required />   @*Add step="any" for all inputs in all html forms i have*@
+
+                <label for="temperature">Temperature:</label>
+                <input type="number" id="temperature" name="temperature" step="any" required />
+
+                <label for="humidity">Humidity:</label>
+                <input type="number" id="humidity" name="humidity" step="any" required />
+
+                <label for="rainfall">Rainfall:</label>
+                <input type="number" id="rainfall" name="rainfall" step="any" required />
+
+                <label for="sunlight_exposure">Sunlight Exposure:</label>
+                <input type="number" id="sunlight_exposure" name="sunlight_exposure" step="any" required />
+
+                <button type="submit" >Add Weather</button>
+            </form>
+        </div>
+
+        <!-- Crop Table -->
+        <div class="table-container">
+            <h2>Crop Data</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Label</th>
+                        <th>Crop Density</th>
+                        <th>Growth Stage</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var crop in Model.CropData.Take(10))
+                    {
+                        <tr>
+                            <td>@crop.label</td>
+                            <td>@crop.crop_density.ToString("F3")</td>
+                            <td>@crop.growth_stage</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+
+            <!-- Add Crop Form -->
+            <h3>Add New Crop</h3>
+            <form method="post" asp-page-handler="AddCrop">
+                <label for="label">Label:</label>
+                <input type="text" id="label" name="label" required />
+
+                <label for="crop_density">Crop Density:</label>
+                <input type="number" id="crop_density" name="crop_density" required />
+
+                <label for="growth_stage">Growth Stage:</label>
+                <input type="text" id="growth_stage" name="growth_stage" required />
+
+                <button type="submit">Add Crop</button>
+            </form>
+        </div>
+    </div>
+
+    <script>
+        c
+            // This functio0n is called when the form is submitted
+        document.getElementById('weatherForm').addEventListener('submit', function(e) {
+            e.preventDefault(); // Prevent the form from reloading the page
+
+            // Get the values from the form fields
+            var weatherData = {
+                _id: document.getElementById('_id').value,
+                temperature: document.getElementById('temperature').value,
+                humidity: document.getElementById('humidity').value,
+                rainfall: document.getElementById('rainfall').value,
+                sunlight_exposure: document.getElementById('sunlight_exposure').value,
+                PP: 0,
+                THI: 0,
+                WAI: 0
+            };
+
+            // Call the addRow function and pass the weatherData to it
+            addRow(weatherData);
+        });
+
+        // Function to add a row dynamically to the table
+           function addRow(weatherData) {
+            // Get the table body
+            var tableBody = document.querySelector("#weatherTable tbody");
+
+            // Create a new row
+            var newRow = document.createElement("tr");
+
+            // Create and append cells to the row
+            var _idCell = document.createElement("td");
+            _idCell.textContent = weatherData._id;
+            newRow.appendChild(_idCell);
+
+            var temperatureCell = document.createElement("td");
+            temperatureCell.textContent = weatherData.temperature;
+            newRow.appendChild(temperatureCell);
+
+            var humidityCell = document.createElement("td");
+            humidityCell.textContent = weatherData.humidity;
+            newRow.appendChild(humidityCell);
+
+            var rainfallCell = document.createElement("td");
+            rainfallCell.textContent = weatherData.rainfall;
+            newRow.appendChild(rainfallCell);
+
+            var sunlightExposureCell = document.createElement("td");
+            sunlightExposureCell.textContent = weatherData.sunlight_exposure;
+            newRow.appendChild(sunlightExposureCell);
+
+
+            // Cells for PP, THI and WAI, default set to 0
+            var ppCell = document.createElement("td");
+            ppCell.textContent = weatherData.THI;  // Will be 0 by default
+                ppCell.id = `PP-${weatherData._id}`;// to be able to set value of pp of added row after computing it
+                    
+           newRow.appendChild(ppCell);
+
+            var thiCell = document.createElement("td");
+            thiCell.textContent = weatherData.THI;  // Will be 0 by default
+                thiCell.id = `THI-${weatherData._id}`; // Add ID for easy access    // to be able to set value of THI of added row after computing it
+
+            newRow.appendChild(thiCell);
+
+            var waiCell = document.createElement("td");
+            waiCell.textContent = weatherData.WAI;  // Will be 0 by default
+            waiCell.id=`WAI-${weatherData._id}`;   // to be able to set value of WAI of added row after computing it
+            newRow.appendChild(waiCell);
+                // Action buttons for computing THI, PP, and WAI
+        var actionCell = document.createElement("td");
+
+            // Create Compute THI button
+        var computeTHIButton = document.createElement("button");
+        computeTHIButton.type = "button";
+        computeTHIButton.textContent = "Compute THI";
+        computeTHIButton.onclick = function() {
+            computeTHI(weatherData._id, weatherData.temperature, weatherData.humidity);//this is the THI function it calls at the added row
+        };
+        actionCell.appendChild(computeTHIButton);
+
+        // Create Compute PP button
+        var computePPButton = document.createElement("button");
+        computePPButton.type = "button";
+        computePPButton.textContent = "Compute PP";
+        computePPButton.onclick = function() {
+            computePP(weatherData._id);             //Call PP FileSystemDirectoryHandle WAI function the same way as THI is called above
+        };
+        actionCell.appendChild(computePPButton);
+
+        // Create Compute WAI button
+        var computeWAIButton = document.createElement("button");
+        computeWAIButton.type = "button";
+        computeWAIButton.textContent = "Compute WAI";
+        computeWAIButton.onclick = function() {
+            computeWAI(weatherData._id);
+        };
+        actionCell.appendChild(computeWAIButton);
+
+        // Append the action cell to the row
+        newRow.appendChild(actionCell);
+
+
+            // Append the new row to the table
+            tableBody.appendChild(newRow);
+
+            // Optionally, remove the last row if there are more than 10 rows
+            if (tableBody.rows.length > 10) {
+                tableBody.deleteRow(0); // Removes the first row if the table exceeds 10 rows
+            }
+        }
+
+
+
+
+
+
+
+
+
+        /*let currentRow = null;
+        document.getElementById('addRowForm').addEventListener('submit', function(event) {
+                            document.getElementById('submitButton').value = 'add';
+        }*/
+        async function computeTHI(weatherId, temperature, humidity) {
+
+            const response = await fetch('http://127.0.0.1:5000/predict', {
+                method: 'POST',
+                body: JSON.stringify({
+                    temperature: parseFloat(temperature),
+                    humidity:parseFloat(humidity),
+                    N: 0,  //You can get actual values from your soil data if needed
+                    P: 0,
+                    K: 0,
+                    organic_matter: 0,
+                    soil_moisture: 0,
+                    rainfall:0,
+                    sunlight_exposure:0,
+                    co2_concentration:0
+                }),
+                headers: {
+                    'Content-Type': 'application/json'
+                }
+            });
+
+            if (response.ok) {
+                const result = await response.json();
+                updateTableValue(`THI-${weatherId}`, result.THI);
+                alert('THI Computed: ' + result.THI);
+                document.getElementById(`THI-${weatherId}`).innerText = result.THI;  //Update the THI cell
+            } else {
+                alert('Error computing THI');
+            }
+        }
+
+                async function computeNBR(soilId, N, P, K) {
+            const response = await fetch('http://127.0.0.1:5000/predict', {
+                method: 'POST',
+                body: JSON.stringify({
+                    temperature: 0,
+                    humidity: 0,
+                    N: parseFloat(N),  // You can get actual values from your soil data if needed
+                    P: parseFloat(P),
+                    K: parseFloat(K),
+                    organic_matter: 0,
+                    soil_moisture: 0,
+                    rainfall: 0,
+                    sunlight_exposure: 0,
+                    co2_concentration: 0
+                }),
+                headers: {
+                    'Content-Type': 'application/json'
+                }
+            });
+
+            if (response.ok) {
+                const result = await response.json();
+                const formatNBR = parseFloat(result.NBR).toFixed(2);
+                //alert('NBR Computed: ' + formatNBR);
+                document.getElementById(`NBR-${soilId}`).innerText = formatNBR;
+            } else {
+                alert('Error computing NBR');
+            }
+        }
+
+        async function computeSFI(weatherId, N,P,K) {
+            const response = await fetch('http://127.0.0.1:5000/predict', {
+                method: 'POST',
+                body: JSON.stringify({
+                    temperature:0,
+                    humidity:0,
+                    N:parseFloat(N),  //You can get actual values from your soil data if needed
+                    P: parseFloat(P),
+                    K: parseFloat(K),
+                    organic_matter:parseFloat(organic_matter),
+                    soil_moisture: 0,
+                    rainfall:0,
+                    sunlight_exposure:0,
+                    co2_concentration:0
+                }),
+                headers: {
+                    'Content-Type': 'application/json'
+                }
+            });
+
+            if (response.ok) {
+                const result = await response.json();
+                const formatSFI = parseFloat(result.SFI).toFixed(2);
+                //alert('SFI Computed: ' + result.SFI);
+                document.getElementById(`SFI-${weatherId}`).innerText = formatSFI;  //Update the THI cell
+            } else {
+                alert('Error computing SFI');
+            }
+        }
+
+        async function computePP(weatherId, sunlight_exposure, co2_concentration, temperature) {
+
+            const response = await fetch('http://127.0.0.1:5000/predict', {
+                method: 'POST',
+                body: JSON.stringify({
+                    temperature:parseFloat(temperature),
+                    humidity:0,
+                    N: 0,  //You can get actual values from your soil data if needed
+                    P: 0,
+                    K: 0,
+                    organic_matter: 0,
+                    soil_moisture: 0,
+                    rainfall:0,
+                    sunlight_exposure:parseFloat(sunlight_exposure),
+                    co2_concentration:parseFloat(co2_concentration)
+                }),
+                headers: {
+                    'Content-Type': 'application/json'
+                }
+            });
+
+            if (response.ok) {
+                const result = await response.json();
+                const formatPP = parseFloat(result.PP).toFixed(2);
+                //alert('PP Computed: ' + result.PP);
+                document.getElementById(`PP-${weatherId}`).innerText = formatPP;  //Update the THI cell
+            } else {
+                alert('Error computing PP');
+            }
+        }
+
+            
+        async function computeWAI(weatherId, soilId, soil_moisture, rainfall) {
+            document.getElementById('submitWAI').value="add"
+            const response = await fetch('http://127.0.0.1:5000/predict', {
+                method: 'POST',
+                body: JSON.stringify({
+                    temperature: 0,
+                    humidity:0,
+                    N: 0,  //You can get actual values from your soil data if needed
+                    P: 0,
+                    K: 0,
+                    organic_matter: 0,
+                    soil_moisture: parseFloat(soil_moisture),
+                    rainfall:parseFloat(rainfall),
+                    sunlight_exposure:0,
+                    co2_concentration:0,
+                    weatherId: weatherId,  // Send weatherId to link with weather table
+                    soilId: soilId
+                }),
+                headers: {
+                    'Content-Type': 'application/json'
+                }
+            });
+
+            if (response.ok) {
+                const result = await response.json();
+                const formatWAI = parseFloat(result.WAI).toFixed(2);
+                //alert('WAI Computed: ' + result.WAI);
+                document.getElementById(`WAI-${weatherId}`).innerText = formatWAI;  //Update the THI cell
+            } else {
+                alert('Error computing WAI');
+            }
+        }
+    </script>
+</body>
+</html>
