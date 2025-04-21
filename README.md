@@ -42,12 +42,11 @@ Classification: Recommend crops with 94% accuracy
 
 Regression: Predicted environmental indices (THI, NBR, SFI, etc.)
 
-🖥️ User Interface
-
-As of now a simple interface C# Razor Page with html content:
+GUI:
+As of now a simple interface C# Razor Page with html content Connected to NoSQL backend via Python API:
 -displaying first 10 rows of each entity atble with added columns that compute Reression Indices
 -(styled with CSS)
 -js for API calls and interactivity
 
-Connected to NoSQL backend via Python API
+
  
