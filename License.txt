@@ -1,0 +1,13 @@
+Custom Non-Commercial License (CNCL) - Version 1.0
+
+Copyright (c) [2025] [Precision Agriculture ML system]
+
+Permission is hereby granted, free of charge, to use, copy, modify, and distribute copies of the Software, subject to the following conditions:
+
+1. **Non-Commercial Use**: The Software may only be used for non-commercial purposes. Commercial use of the Software is strictly prohibited unless you have obtained explicit written permission from the copyright holder.
+
+2. **Attribution**: Redistributions of the Software must retain the original copyright notice, this list of conditions, and the following disclaimer.
+
+3. **No Warranty**: The Software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the software or the use or other dealings in the software.
+
+4. **Commercial Use Prohibition**: Any use of the Software for commercial purposes, including but not limited to resale, offering as a service, or integration into a proprietary product, is prohibited without a commercial license obtained directly from the author(s).
